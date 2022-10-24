@@ -1,47 +1,47 @@
 [
   {
     "id": 1,
-    "name": "iPhone 7 Plus",
-    "description": "Apple, 32GB, RAM: 3GB, iOS13",
-    "price": 17000000,
-    "image": "https://res.cloudinary.com/dxxwcby8l/image/upload/v1646729569/fi9v6vdljyfmiltegh7k.jpg",
+    "name": "Columbia Men's Flare Gun Fleece Over Shirt",
+    "description": "The Columbia Men’s Flare Gun™ Over Shirt brings classic, workwear style to your outdoor wardrobe. A perfect outer layer for a casual hike, campout, or just cool weather solution. The versatile style and rich patterns will keep you warm on chilly outdoor mornings. Available in a range of robust earthen colored designs.",
+    "price": "$29.35 - $149.18",
+    "image": "https://m.media-amazon.com/images/I/91FaelThyRS._AC_UX466_.jpg",
     "category_id": 1
   },
   {
     "id": 2,
-    "name": "iPad Pro 2020",
-    "description": "Apple, 128GB, RAM: 6GB",
-    "price": 37000000,
-    "image": "https://res.cloudinary.com/dxxwcby8l/image/upload/v1647248722/r8sjly3st7estapvj19u.jpg",
+    "name": "Legendary Whitetails Women's Cottage Escape Flannel Shirt",
+    "description": "Let loose in our timeless flannel, featuring a classic design with chambray lined collar and cuffs. Made of soft brushed mid-weight cotton flannel, this yarn-dyed shirt is just right and very comfortable. Wear it alone or layer up during those brisk fall days. Pairs perfectly with our Womens Quilted Vest.",
+    "price": "$24.19 - $48.71",
+    "image": "https://m.media-amazon.com/images/I/81bX5sLjTAS._AC_UX425_.jpg",
     "category_id": 2
   },
   {
     "id": 3,
-    "name": "Galaxy Note 10 Plus",
-    "description": "Samsung, 64GB, RAML: 6GB",
-    "price": 24000000,
-    "image": "https://res.cloudinary.com/dxxwcby8l/image/upload/v1646729569/fi9v6vdljyfmiltegh7k.jpg",
+    "name": "Legendary Whitetails Women's Trail Guide Fleece Button Down Shirt",
+    "description": "Hit the trail wearing the perfect shirt for the job. Polyester knit is brushed for buttery softness, inside and out. The stylish, yet functional, design boasts a button front with Legendary engraved buttons, a faux leather Signature Buck patch, and stylish patterns.",
+    "price": "$39.99",
+    "image": "https://m.media-amazon.com/images/I/91toQtQlzaL._AC_UX466_.jpg",
     "category_id": 1
   }, {
     "id": 4,
-    "name": "Galaxy Note 10 Plus",
-    "description": "Samsung, 64GB, RAML: 6GB",
-    "price": 24000000,
-    "image": "https://res.cloudinary.com/dxxwcby8l/image/upload/v1646729569/fi9v6vdljyfmiltegh7k.jpg",
+    "name": "Legendary Whitetails Women's Saddle Country Shirt Jacket",
+    "description": "63% Cotton, 37% Polyester",
+    "price": "$89.99",
+    "image": "https://m.media-amazon.com/images/I/91gknJ8+A2L._AC_UX522_.jpg",
     "category_id": 2
   }, {
     "id": 5,
-    "name": "Galaxy Note 10 Plus",
-    "description": "Samsung, 64GB, RAML: 6GB",
-    "price": 24000000,
-    "image": "https://res.cloudinary.com/dxxwcby8l/image/upload/v1647248722/r8sjly3st7estapvj19u.jpg",
+    "name": "Legendary Whitetails Women's Legendary Flannel Shirt",
+    "description": "This women's Legendary Flannel Shirt has a relaxed boyfriend fit in the softest brushed flannel we could find. With the suede-like lined collar and cuffs, you'll want to collect all of the colors!",
+    "price": " $36.94",
+    "image": "https://m.media-amazon.com/images/I/919jsbz2iRL._AC_UX425_.jpg",
     "category_id": 2
   }, {
     "id": 6,
-    "name": "Galaxy Note 10 Plus",
+    "name": "Legendary Whitetails Women's Open Spaces Dress",
     "description": "Samsung, 64GB, RAML: 6GB",
-    "price": 24000000,
-    "image": "https://res.cloudinary.com/dxxwcby8l/image/upload/v1646729569/fi9v6vdljyfmiltegh7k.jpg",
+    "price": "$59.99",
+    "image": "https://m.media-amazon.com/images/I/91BG2JDzWPL._AC_UY500_.jpg",
     "category_id": 3
   }
 ]

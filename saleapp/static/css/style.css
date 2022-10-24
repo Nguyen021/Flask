@@ -20,7 +20,7 @@ line-height: 1 !important;
 /* Color of the navbar AFTER scroll */
 .navbar-scroll,
 .navbar-scrolled {
-  background-color: #cbbcb1;
+      background-color: #fff;;
 }
 
 .mask-custom {
@@ -31,4 +31,14 @@ line-height: 1 !important;
 .navbar-brand {
   font-size: 1.75rem;
   letter-spacing: 3px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background: linear-gradient(to right, rgba(196, 113, 245, 1), rgba(250, 113, 205, 1));
+    transition-delay: 0.4s
+}
+.img-product{
+    width:259px;
+    height:280px;
 }

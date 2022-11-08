@@ -1,0 +1,39 @@
+{% extends "parent.html" %}
+
+{% block header %}
+<title>index task</title>
+{%endblock%}
+
+{% block body %}
+    <!-- <h2> this is index extends from parent.html</h2> -->
+    <div class="container">
+        <h3>Tasks Master</h3>
+        {% if Tasks | length < 1 %}
+        <h3>There are no task. Create one below </h3>
+        {% else %}
+            <table>
+                <tr>
+                    <th>Task</th>
+                    <th>Added</th>
+                    <th>Actions</th>
+                </tr>
+                {% for t in Tasks %}
+                    <tr>
+                        <td>{{ t.content}}</td>
+                        <td>{{ t.date_created.date() }}</td>
+                        <td>
+                            <a href="/delete/{{ t.id }}">Delete</a>
+                            <br>
+                            <a href="/update/{{ t.id }}">Update</a>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </table>
+        {% endif %}
+        <br>
+        <form action="/" method="POST">
+            <input type="text" name="content" id="content">
+            <input type="submit" value="Add Task">
+        </form>
+    </div>
+{% endblock %}

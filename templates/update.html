@@ -1,0 +1,16 @@
+{% extends 'parent.html' %}
+
+{% block header %} 
+<title>Update Task</title>
+{%endblock%}
+
+{% block body %} 
+<div class="container">
+    <h2>Update Task</h2>
+    <form action="/update/{{ t.id }}" method="POST">
+        <input type="text" value="{{ t.content }}" name="update_content">
+        <input type="submit" value="Change Task">
+    </form>
+</div>
+
+{%endblock%}
